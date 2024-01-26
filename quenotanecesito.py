@@ -15,4 +15,4 @@ NL=int(input("ingrese la nota del laboratorio\n"))
 NF=59.5
 NC=(NF-(NL*0.3))/0.7
 C3 =(3*NC)-(C1-C2)
-print("la nota que nefecsita para el tercer certamen es ",C3)
+print("la nota que necesita para el tercer certamen es ",C3)
